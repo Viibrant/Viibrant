@@ -12,7 +12,7 @@
 </p>
 <p align="center"> <i> There were a lot of big trees that day. </i> </p>
 
-⁉️  I'm a 2nd year **BSc. Data Science and Analytics** student. I love programming and am very interested in machine learning and neural networks.
+⁉️  I'm a 2nd year **BSc. Data Science and Analytics** student. I'm interested in machine learning and neural networks.
 
 🎼 Love my **metal** (more specifically Deathcore & Slam), also love house music specifically [Lofi House & Float House](https://open.spotify.com/playlist/0lvLQrp4VqEj5cO8dh0p3k?si=0f6912fc93f646db)
 
