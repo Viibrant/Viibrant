@@ -15,3 +15,5 @@
 ⁉️  I'm a 2nd year **BSc. Data Science and Analytics** student. I love programming and am very interested in machine learning and neural networks.
 
 🎼 Love my metal (more specifically Deathcore & Slam), also love house music specifically [Lofi House & Float House](https://open.spotify.com/playlist/0lvLQrp4VqEj5cO8dh0p3k?si=0f6912fc93f646db)
+
+🥋 I do Brazilian Jujitsu in my spare time. I also play guitar and game!
