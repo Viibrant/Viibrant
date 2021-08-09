@@ -10,7 +10,6 @@
 <p align="center">
   <img src="https://imgur.com/74Oe9IA.jpeg" height="300"/>
 </p>
-<p align="center"> <i> There were a lot of big trees that day. </i> </p>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viibrant&layout=compact">
 
