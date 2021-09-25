@@ -1,6 +1,7 @@
 
 <h1 align="center">   
-🍣 Hey there! I'm Connor 🍚 </h3>
+  🍣 Hey there! I'm <a href=https://www.connorData.Science> Connor 🍚 </a> </h1>
+
 
 <p align="center"><a href="https://www.gigabyte.com/uk/Graphics-Card/GV-N208SGAMINGOC-WHITE-8GD"><img src="https://img.shields.io/badge/NVIDIA-RTX2080S-76B900?style=for-the-badge&amp;logo=nvidia&amp;logoColor=white" alt="nvidia"></a> 
 <a href="https://www.amd.com/en/products/cpu/amd-ryzen-7-5800x"><img src="https://img.shields.io/badge/AMD-Ryzen_7_5800X-ED1C24?style=for-the-badge&amp;logo=amd&amp;logoColor=white" alt="amd"></a> <a href="https://ubuntu.com"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&amp;logo=ubuntu&amp;logoColor=white" alt="linux"></a> 
