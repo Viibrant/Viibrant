@@ -12,6 +12,8 @@
   <img src="https://imgur.com/74Oe9IA.jpeg" height="300"/>
 </p>
 
+---
+
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viibrant&layout=compact">
 
 - ⁉️  I'm a 2nd year **BSc. Data Science and Analytics** student. I'm interested in machine learning and neural networks.
