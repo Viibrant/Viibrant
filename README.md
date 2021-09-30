@@ -23,4 +23,4 @@
 - 🥋 I do **Brazilian Jujitsu** in my spare time. I also play **guitar** and **game**!
 
 
-<p align="center"><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FViibrant&count_bg=%235F4B8B&title_bg=%235B84B1&icon=&icon_color=%23FF0000&title=Visitors&edge_flat=true"/></a></p>
+<p align="center"><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%UP2014372&count_bg=%235F4B8B&title_bg=%235B84B1&icon=&icon_color=%23FF0000&title=Visitors&edge_flat=true"/></a></p>
