@@ -1,6 +1,6 @@
 
 <h1 align="center">   
-  🍣 Hey there! I'm <a href=https://www.connorData.Science> Connor 🍚 </a> </h1>
+  🍣 Hey there! I'm <a href=https://www.connorData.Science> Connor</a> 🍚 </h1>
 
 
 <p align="center"><a href="https://www.gigabyte.com/uk/Graphics-Card/GV-N208SGAMINGOC-WHITE-8GD"><img src="https://img.shields.io/badge/NVIDIA-RTX2080S-76B900?style=for-the-badge&amp;logo=nvidia&amp;logoColor=white" alt="nvidia"></a> 
