@@ -14,7 +14,7 @@
 
 ---
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UP2014372&layout=compact">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viibrant&layout=compact">
 
 - ⁉️  I'm a 2nd year **BSc. Data Science and Analytics** student. I'm interested in machine learning and neural networks.
 
@@ -24,5 +24,5 @@
 
 
 <p align="center">
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FUP2014372&count_bg=%237E00FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FViibrant&count_bg=%237E00FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </p>
