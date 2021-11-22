@@ -9,11 +9,14 @@
 <a href="https://code.visualstudio.com"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&amp;logo=visual%20studio%20code&amp;logoColor=white" alt="vsc"></a>
 <a href="https://www.linkedin.com/in/connorbrook/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="linkedin"></a></p>
 
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Viibrant&theme=dracula">
-  <img src="https://imgur.com/74Oe9IA.jpeg" height="200"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Viibrant&theme=dracula">
+</p>
+
+
+<p align="center">
+  <img src="https://imgur.com/74Oe9IA.jpeg" height="300"/>
 </p>
 
 ---
