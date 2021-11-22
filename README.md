@@ -15,10 +15,6 @@
 </p>
 
 
-<p align="center">
-  <img src="https://imgur.com/74Oe9IA.jpeg" height="300"/>
-</p>
-
 ---
 
 
