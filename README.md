@@ -10,8 +10,8 @@
 <a href="https://www.linkedin.com/in/connorbrook/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="linkedin"></a></p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Viibrant&theme=dracula">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Viibrant&theme=dracula">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Viibrant&theme=dracula">
   <p align="center"> <i>I'm a night owl, in case you couldn't tell :) </i></p>
 </p>
 
