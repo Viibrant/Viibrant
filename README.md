@@ -18,10 +18,9 @@
 
 
 ## Things I need to do!
-- 😷 Migrate the plotting library for [covid-dashboard](https://github.com/Viibrant/covid-dashboard) from Bokeh to Plotly.
+- 😷 Polish the frontend of my [covid-dashboard](https://github.com/Viibrant/covid-dashboard).
 - 🌍 Add all of my personal projects to [my website](https://github.com/Viibrant/connorData.Science).
 - 🎶 Implement the OAuth2 (refreshing tokens etc) for [ImListeningToThis](https://github.com/Viibrant/ImListeningToThis).
-- 🧑‍🎓 Potentially implement a GitHub Pages UI for my [are-we-together](https://github.com/Viibrant/are-we-together).
 
 
 ## About me
