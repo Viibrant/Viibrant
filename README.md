@@ -12,7 +12,7 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Viibrant&theme=dracula">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Viibrant&theme=dracula">
-  <p align="center"> <i>I'm a night owl, in case you couldn't tell :) </i></p>
+  <p align="center"> <i>Ooo look at this data, isn't it satisfying? </i></p>
 </p>
 
 
