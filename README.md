@@ -9,4 +9,4 @@
 
 Primary interest is Machine Learning, particularly Deep Learning. Would like to do more research projects.
 
-ALways open to working on stuff together, just message me :)
+ALways open to working on stuff together, just message me :) @viibrant on Discord
