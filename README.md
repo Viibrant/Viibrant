@@ -3,13 +3,6 @@
 
 <table align="center" width="100%">
     <tr>
-        <!-- Left Column -->
-        <td align="center" width="50%">
-            <img src="https://i.imgflip.com/5efyw6.png" width="80%" />
-            <p>
-                Depicted: <i> Me lol </i>
-            </p>
-        </td>
         <!-- Right Column -->
         <td valign="top" width="50%">
             <h1 align="center">Hi, I'm <a href="https://www.connorData.Science">Connor!</a></h1>
@@ -24,7 +17,12 @@
             </p>
             <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Viibrant&theme=midnight_purple" />
         </td>
+        <!-- Left Column -->
+        <td align="center" width="50%">
+            <img src="https://i.imgflip.com/5efyw6.png" width="80%" />
+            <p>
+                Depicted: <i> Me lol </i>
+            </p>
+        </td>
     </tr>
 </table>
-
-<p align="center"></p>
