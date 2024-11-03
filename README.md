@@ -5,13 +5,13 @@
     <tr>
         <!-- Right Column -->
         <td valign="top" width="50%">
-            <h1 align="center">Hi, I'm <a href="https://www.connorData.Science">Connor!</a></h1>
+            <h1 align="center">I'm <a href="https://www.connorData.Science">Connor</a></h1>
             <img src="https://dcbadge.limes.pink/api/shield/951673440811769926?compact=true" />
             <p>
-                I love building stuff. Seriously, hmu. <i>please.</i>
+                I WANT TO BUILD COOL STUFF.
                 <br />
                 <br />
-                Happy to work on anything cool, but I am very strongly drawn to researchy ml type stuff. I do just generally enjoy programming though and giving people pointers, even if I don't know the topic.
+                Interested? HMU. 
                 <br />
                 <br />
             </p>
@@ -21,7 +21,7 @@
         <td align="center" width="50%">
             <img src="https://i.imgflip.com/5efyw6.png" width="80%" />
             <p>
-                Depicted: <i> Me lol </i>
+                <i> "I want to do cool ML/AI stuff" </i>
             </p>
         </td>
     </tr>
