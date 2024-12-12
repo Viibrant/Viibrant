@@ -5,7 +5,7 @@
     <tr>
         <!-- Right Column -->
         <td valign="top" width="50%">
-            <h1 align="center">I'm <a href="https://www.connorData.Science">Connor</a></h1>
+            <h1 align="center">I'm <a href="https://connorData.Science">Connor</a></h1>
             <img src="https://dcbadge.limes.pink/api/shield/951673440811769926?compact=true" />
             <p>
                 I WANT TO BUILD COOL STUFF.
